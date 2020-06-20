@@ -8,4 +8,7 @@ A new Flutter Authentication App UI using Firebase Authentication with Sign In o
 - Clone your forked repository to local machine
 - Now work the repository and make wonderful apps
 
-## Follow the comments provided in `main.dart` file for full explanation of UI design
+### Follow the comments provided in `main.dart` file for full explanation of UI design
+
+## ScreenShot
+![App ScreenShot](/screenshots/1.png)
